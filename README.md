@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surajpaypay
+- 👋 Hi, I’m Suraj, my git id is @surajpaypay
 - 👀 I’m interested in Reading, Travelling & Coding
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on Java related open source repos
